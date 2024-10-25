@@ -1,7 +1,16 @@
 
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 8000;
+
+app.get('/', (req, res)=>{
+
+  res.json({
+    status: 200,
+    msg: "Successfully running the server"
+  })
+
+})
 
 app.get('/api/ui-config', (req, res) => {
   // Example UI configuration
