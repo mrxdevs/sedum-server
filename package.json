@@ -1,0 +1,25 @@
+{
+  "name": "sdui-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrxdevs/sedum-server.git"
+  },
+  "keywords": [
+    "sdui"
+  ],
+  "author": "Amjad Ali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrxdevs/sedum-server/issues"
+  },
+  "homepage": "https://github.com/mrxdevs/sedum-server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
