@@ -45,7 +45,7 @@ app.get('/api/ui-config', (req, res) => {
           {
             type: 'image',
             properties: {
-              url: 'https://example.com/image.jpg',
+              url: 'https://rapteehv.com/assets/ownership-rsa-n-BoDVHDhM.png',
               width: 200,
               height: 200,
               fit: 'cover'
